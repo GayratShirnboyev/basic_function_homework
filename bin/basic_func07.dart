@@ -2,5 +2,11 @@
 
 //  Create function arguments a.
 
+int func(int a) {
+  return a;
+}
+
 //  Return the value a.
-void main() {}
+void main() {
+  print(func(5));
+}
