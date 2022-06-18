@@ -3,7 +3,7 @@
 // Return the value "codeschooluz"
 
 String func() {
-  return "codeschool";
+  return "codeschooluz";
 }
 
 void main() {
